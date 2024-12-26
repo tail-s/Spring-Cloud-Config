@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: my_token_dev_spring-cloud-bus-tester
+  secret: my_token_dev_spring-cloud-bus-tester_
 
 gateway:
   ip: 192.168.0.2
