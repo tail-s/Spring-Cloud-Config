@@ -11,3 +11,6 @@ token:
 
 gateway:
   ip: 192.168.0.2
+
+order_service:
+  url: http://localhost:8888/order-service/%s/orders
